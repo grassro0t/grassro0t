@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm grassro0t
 
-<!--
-**GrassRo0t/grassro0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Own Projects
+- [grassro0t/grassro0t.github.io](https://github.com/grassro0t/grassro0t.github.io)｜FixIt 技术博客，C++、设计模式笔记
+- [grassro0t/cpp‑demo](https://github.com/grassro0t/cpp‑demo)｜C++ 代码示例
 
-Here are some ideas to get you started:
+## 🔧 Forked & Modified
+> 我基于上游做自定义修改
+- [grassro0t/FixIt](https://github.com/grassro0t/FixIt)｜Fork from hugo‑fixit/FixIt，做主题定制补丁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Interesting Repositories
+- [giscus/giscus](https://github.com/giscus/giscus)｜github discussion评论系统
+- [gohugoio/hugo](https://github.com/gohugoio/hugo)｜静态网站生成器
+
+### Tech Stack
+C++ | Java | Python | Matlab
