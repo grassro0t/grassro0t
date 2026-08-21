@@ -1,5 +1,6 @@
 # 👋 Hi, I'm grassro0t
 <!-- 社交链接徽章栏 -->
+<div align="center">
 <a href="mailto:julian.song.work@outlook.com">
 <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -15,17 +16,18 @@
 <a href="https://stackoverflow.com/users/xxx">
 <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
 </a>
+</div>
 
 - 🌱 I'm currently learning **C++ game backend & algorithm**.
 - ⏰ Working Hours: `09:30‑22:00` **UTC+8**
 - 🧠 Tech Stack
-  - <img src="https://img.shields.io/badge/C++‑EXPERT‑0078D4?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  - <img src="https://img.shields.io/badge/Linux‑PROFICIENT‑2ECC71?style=for-the-badge&logo=linux&logoColor=white"/>
-  - <img src="https://img.shields.io/badge/CMake‑PROFICIENT‑2ECC71?style=for-the-badge&logo=cmake&logoColor=white"/>
-  - <img src="https://img.shields.io/badge/gRPC‑PRACTICING‑F1C40F?style=for-the-badge&logo=redis&logoColor=white"/>
-  - <img src="https://img.shields.io/badge/Redis‑LEARNING‑3498DB?style=for-the-badge&logo=grpc&logoColor=white"/>
-  - <img src="https://img.shields.io/badge/MySQL‑LEARNING‑3498DB?style=for-the-badge&logo=grpc&logoColor=white"/>
-  - <img src="https://img.shields.io/badge/Docker‑LEARNING_PLAN‑95A5A6?style=for-the-badge&logo=rust&logoColor=white"/>
+  - <img src="https://img.shields.io/static/v1?label=C%2B%2B&message=EXPERT&color=0078D4&style=for-the-badge"/>
+  - <img src="https://img.shields.io/static/v1?label=Linux&message=PROFICIENT&color=2ECC71&style=for-the-badge"/>
+  - <img src="https://img.shields.io/static/v1?label=CMake&message=PROFICIENT&color=2ECC71&style=for-the-badge"/>
+  - <img src="https://img.shields.io/static/v1?label=gRPC&message=PROFICIENT&color=2ECC71&style=for-the-badge"/>
+  - <img src="https://img.shields.io/static/v1?label=Redis&message=LEARNING&color=3498DB&style=for-the-badge"/>
+  - <img src="https://img.shields.io/static/v1?label=MySQL&message=LEARNING&color=3498DB&style=for-the-badge"/>
+  - <img src="https://img.shields.io/static/v1?label=Docker&message=LEARNING_PLAN&color=95A5A6&style=for-the-badge"/>
 
 ## 🚀 My Own Projects
 - [grassro0t/grassro0t.github.io](https://github.com/grassro0t/grassro0t.github.io)｜FixIt 技术博客，C++笔记
