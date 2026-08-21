@@ -1,5 +1,32 @@
 # 👋 Hi, I'm grassro0t
-人人为我，我为人人
+<!-- 社交链接徽章栏 -->
+<a href="mailto:julian.song.work@outlook.com">
+<img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/grassro0t">
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="shturl.cc/4kNgrCCYBlT">
+<img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white"/>
+</a>
+<a href="https://zhihu.com/people/grassroot-30">
+<img src="https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white"/>
+</a>
+<a href="https://stackoverflow.com/users/xxx">
+<img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+
+- 🌱 I'm currently learning **C++ game backend & algorithm**.
+- ⏰ Working Hours: `09:30‑22:00` **UTC+8**
+- 🧠 Tech Stack
+  - <img src="https://img.shields.io/badge/C++‑EXPERT‑0078D4?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  - <img src="https://img.shields.io/badge/Linux‑PROFICIENT‑2ECC71?style=for-the-badge&logo=linux&logoColor=white"/>
+  - <img src="https://img.shields.io/badge/CMake‑PROFICIENT‑2ECC71?style=for-the-badge&logo=cmake&logoColor=white"/>
+  - <img src="https://img.shields.io/badge/gRPC‑PRACTICING‑F1C40F?style=for-the-badge&logo=redis&logoColor=white"/>
+  - <img src="https://img.shields.io/badge/Redis‑LEARNING‑3498DB?style=for-the-badge&logo=grpc&logoColor=white"/>
+  - <img src="https://img.shields.io/badge/MySQL‑LEARNING‑3498DB?style=for-the-badge&logo=grpc&logoColor=white"/>
+  - <img src="https://img.shields.io/badge/Docker‑LEARNING_PLAN‑95A5A6?style=for-the-badge&logo=rust&logoColor=white"/>
+
 ## 🚀 My Own Projects
 - [grassro0t/grassro0t.github.io](https://github.com/grassro0t/grassro0t.github.io)｜FixIt 技术博客，C++笔记
 - [grassro0t/MxOnline](https://github.com/grassro0t/MxOnline)｜django仿慕课网在线学习网站demo
@@ -27,6 +54,3 @@
 - [grassro0t/chainer-gan-lib](https://github.com/grassro0t/chainer-gan-lib)｜常见GAN模型实现
 ## ⭐ Interesting Repositories
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)｜计算机科学笔记
-
-## Tech Stack
-C++ | Python | Java | Matlab
