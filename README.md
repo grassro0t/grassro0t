@@ -31,6 +31,7 @@
 
 ## 🚀 My Own Projects
 - [grassro0t/grassro0t.github.io](https://github.com/grassro0t/grassro0t.github.io)｜FixIt 技术博客，C++笔记
+- [grassro0t/httpserver-demo](https://github.com/grassro0t/httpserver-demo)｜基于nginx+gRPC+Redis的C++分层微服务HTTP后端demo
 - [grassro0t/MxOnline](https://github.com/grassro0t/MxOnline)｜django仿慕课网在线学习网站demo
 - [grassro0t/RnTestProject](https://github.com/grassro0t/RnTestProject)｜reactnative项目pratice
 ---
