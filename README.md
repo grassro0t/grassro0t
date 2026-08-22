@@ -7,7 +7,7 @@
 <a href="https://github.com/grassro0t">
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="shturl.cc/4kNgrCCYBlT">
+<a href="https://gitee.com/grassro0t">
 <img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white"/>
 </a>
 <a href="https://zhihu.com/people/grassroot-30">
