@@ -57,3 +57,5 @@
 - [grassro0t/chainer-gan-lib](https://github.com/grassro0t/chainer-gan-lib)｜常见GAN模型实现
 ## ⭐ Interesting Repositories
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)｜计算机科学笔记
+
+😏 Sigma man never fall for women's traps.
