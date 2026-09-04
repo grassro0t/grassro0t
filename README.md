@@ -33,8 +33,8 @@
 - [grassro0t/grassro0t.github.io](https://github.com/grassro0t/grassro0t.github.io)｜FixIt 技术博客，C++笔记
 - [grassro0t/httpserver-demo](https://github.com/grassro0t/httpserver-demo)｜基于nginx+gRPC+Redis的C++分层微服务HTTP后端demo
 - [grassro0t/MxOnline](https://github.com/grassro0t/MxOnline)｜django仿慕课网在线学习网站demo
-- [grassro0t/computer-science-practice](https://github.com/grassro0t/computer-science-practice)｜重要的计算机基础知识pratice
-- [grassro0t/RnTestProject](https://github.com/grassro0t/RnTestProject)｜reactnative项目pratice
+- [grassro0t/computer-science-practice](https://github.com/grassro0t/computer-science-practice)｜重要的计算机基础知识practice
+- [grassro0t/RnTestProject](https://github.com/grassro0t/RnTestProject)｜reactnative项目practice
 ---
 - [grassro0t/grayuranium.github.io](https://github.com/grassro0t/grayuranium.github.io)｜旧博客，hexo驱动
 - [grassro0t/TDHCNMDA](https://github.com/grassro0t/TDHCNMDA)｜硕士学位论文代码仓库，TDHCNMDA模型
