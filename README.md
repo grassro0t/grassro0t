@@ -18,7 +18,7 @@
 </a>
 </div>
 
-- 🌱 I'm currently learning **C++ game backend & algorithm**.
+- 🌱 I'm currently learning **C++ & ai**.
 - ⏰ Working Hours: `09:30‑22:00` **UTC+8**
 - 🧠 Tech Stack
   - <img src="https://img.shields.io/static/v1?label=C%2B%2B&message=EXPERT&color=0078D4&style=for-the-badge"/>
