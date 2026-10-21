@@ -27,15 +27,15 @@
   - <img src="https://img.shields.io/static/v1?label=gRPC&message=PROFICIENT&color=2ECC71&style=for-the-badge"/>
   - <img src="https://img.shields.io/static/v1?label=Redis&message=LEARNING&color=3498DB&style=for-the-badge"/>
   - <img src="https://img.shields.io/static/v1?label=MySQL&message=LEARNING&color=3498DB&style=for-the-badge"/>
-  - <img src="https://img.shields.io/static/v1?label=Docker&message=LEARNING_PLAN&color=95A5A6&style=for-the-badge"/>
+  - <img src="https://img.shields.io/static/v1?label=K8S&message=LEARNING_PLAN&color=95A5A6&style=for-the-badge"/>
 
 ## 🚀 My Own Projects
 - [grassro0t/grassro0t.github.io](https://github.com/grassro0t/grassro0t.github.io)｜FixIt 技术博客，C++笔记
-- [grassro0t/httpserver-demo](https://github.com/grassro0t/httpserver-demo)｜基于gRPC的C++分层微服务HTTP后端demo
+- [grassro0t/httpserver-demo](https://github.com/grassro0t/httpserver-demo)｜高性能 AI Agent 后端
 - [grassro0t/leetcode-practice](https://github.com/grassro0t/leetcode-practice)｜leetcode代码仓库
-- [grassro0t/computer-science-practice](https://github.com/grassro0t/computer-science-practice)｜后端编程相关的practice
+- [grassro0t/computer-science-practice](https://github.com/grassro0t/computer-science-practice)｜并发、网络相关的practice
 - [grassro0t/MxOnline](https://github.com/grassro0t/MxOnline)｜django仿慕课网在线学习网站demo
-- [grassro0t/RnTestProject](https://github.com/grassro0t/RnTestProject)｜reactnative项目practice
+- [grassro0t/RnTestProject](https://github.com/grassro0t/RnTestProject)｜reactnative尿诊数据记录app
 ---
 - [grassro0t/grayuranium.github.io](https://github.com/grassro0t/grayuranium.github.io)｜旧博客，hexo驱动
 - [grassro0t/TDHCNMDA](https://github.com/grassro0t/TDHCNMDA)｜硕士学位论文代码仓库，TDHCNMDA模型
